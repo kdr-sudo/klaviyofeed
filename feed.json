@@ -6,6 +6,7 @@
     "price": 49.99,
     "url": "https://terrariumcollective.com/products/beginner-moss-kit",
     "image_url": "https://cdn.insteading.com/wp-content/uploads/2020/02/moss.jpg",
+    "image_thumbnail_url": "https://cdn.insteading.com/wp-content/uploads/2020/02/moss.jpg",
     "availability": "in stock",
     "category": "Starter Kits",
     "brand": "The Terrarium Collective"
@@ -17,6 +18,7 @@
     "price": 59.99,
     "url": "https://terrariumcollective.com/products/low-light-forest-kit",
     "image_url": "https://wp.plantsnap.com/wp-content/uploads/2020/12/shutterstock_1338510284.jpg",
+    "image_thumbnail_url": "https://wp.plantsnap.com/wp-content/uploads/2020/12/shutterstock_1338510284.jpg",
     "availability": "in stock",
     "category": "Starter Kits",
     "brand": "The Terrarium Collective"
@@ -28,6 +30,7 @@
     "price": 79.99,
     "url": "https://terrariumcollective.com/products/rare-moss-collector-kit",
     "image_url": "https://www.scenichudson.org/wp-content/uploads/2023/10/scenichudson_50830060_Full-1400x788.jpg",
+    "image_thumbnail_url": "https://www.scenichudson.org/wp-content/uploads/2023/10/scenichudson_50830060_Full-1400x788.jpg",
     "availability": "in stock",
     "category": "Starter Kits",
     "brand": "The Terrarium Collective"
@@ -39,6 +42,7 @@
     "price": 69.99,
     "url": "https://terrariumcollective.com/products/closed-jar-kit",
     "image_url": "https://terrariumcollective.com/images/closed-jar-kit.jpg",
+    "image_thumbnail_url": "https://terrariumcollective.com/images/closed-jar-kit.jpg",
     "availability": "in stock",
     "category": "Starter Kits",
     "brand": "The Terrarium Collective"
@@ -50,6 +54,7 @@
     "price": 54.99,
     "url": "https://terrariumcollective.com/products/desktop-zen-kit",
     "image_url": "https://terrariumcollective.com/images/desktop-zen-kit.jpg",
+    "image_thumbnail_url": "https://terrariumcollective.com/images/desktop-zen-kit.jpg",
     "availability": "in stock",
     "category": "Starter Kits",
     "brand": "The Terrarium Collective"
