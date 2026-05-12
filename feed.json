@@ -1,62 +1,477 @@
 [
   {
-    "id": "starter-kit-001",
-    "title": "Beginner Moss Terrarium Starter Kit",
-    "description": "Perfect for first-time hobbyists. Includes preserved cushion moss, substrate layers, activated charcoal, and a minimalist glass vessel.",
-    "price": 49.99,
-    "url": "https://terrariumcollective.com/products/beginner-moss-kit",
-    "image_url": "https://cdn.insteading.com/wp-content/uploads/2020/02/moss.jpg",
-    "image_thumbnail_url": "https://cdn.insteading.com/wp-content/uploads/2020/02/moss.jpg",
+    "id": "VG-00001",
+    "title": "Hand-Thrown Stoneware Pitcher",
+    "link": "https://veridiangrove.com/products/vg-00001",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00001.jpg",
+    "description": "Hand-Thrown Stoneware Pitcher from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 85.0,
+    "sku": "VG-00001",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 12,
+    "inventory_level": 12,
+    "inventory_policy": 1,
     "availability": "in stock",
-    "category": "Starter Kits",
-    "brand": "The Terrarium Collective"
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
   },
   {
-    "id": "starter-kit-002",
-    "title": "Low-Light Forest Terrarium Kit",
-    "description": "Designed for apartments and shaded spaces. Features shade-tolerant moss species and a humidity-retaining glass enclosure.",
-    "price": 59.99,
-    "url": "https://terrariumcollective.com/products/low-light-forest-kit",
-    "image_url": "https://wp.plantsnap.com/wp-content/uploads/2020/12/shutterstock_1338510284.jpg",
-    "image_thumbnail_url": "https://wp.plantsnap.com/wp-content/uploads/2020/12/shutterstock_1338510284.jpg",
+    "id": "VG-00002",
+    "title": "Belgian Linen Throw - Slate",
+    "link": "https://veridiangrove.com/products/vg-00002",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00002.jpg",
+    "description": "Belgian Linen Throw - Slate from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 145.0,
+    "sku": "VG-00002",
+    "category": "Textiles",
+    "categories": [
+      "Textiles"
+    ],
+    "inventory_quantity": 45,
+    "inventory_level": 45,
+    "inventory_policy": 1,
     "availability": "in stock",
-    "category": "Starter Kits",
-    "brand": "The Terrarium Collective"
+    "limited_edition": false,
+    "limited_edition_label": ""
   },
   {
-    "id": "starter-kit-003",
-    "title": "Rare Moss Collector Starter Kit",
-    "description": "A curated introduction to rare moss species including mood moss and sheet moss. Ideal for enthusiasts ready to level up.",
-    "price": 79.99,
-    "url": "https://terrariumcollective.com/products/rare-moss-collector-kit",
-    "image_url": "https://www.trees.com/wp-content/uploads/2020/04/types-of-moss.jpg",
-    "image_thumbnail_url": "https://www.trees.com/wp-content/uploads/2020/04/types-of-moss.jpg",
+    "id": "VG-00003",
+    "title": "Matte Sage Cylinder Vase",
+    "link": "https://veridiangrove.com/products/vg-00003",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00003.jpg",
+    "description": "Matte Sage Cylinder Vase from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 62.0,
+    "sku": "VG-00003",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 8,
+    "inventory_level": 8,
+    "inventory_policy": 1,
     "availability": "in stock",
-    "category": "Starter Kits",
-    "brand": "The Terrarium Collective"
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
   },
   {
-    "id": "starter-kit-004",
-    "title": "Closed Jar Self-Sustaining Terrarium Kit",
-    "description": "Create a self-sustaining ecosystem in a sealed glass jar. Includes step-by-step guide and long-lasting moss varieties.",
-    "price": 69.99,
-    "url": "https://terrariumcollective.com/products/closed-jar-kit",
-    "image_url": "https://terrariumcollective.com/images/closed-jar-kit.jpg",
-    "image_thumbnail_url": "https://terrariumcollective.com/images/closed-jar-kit.jpg",
+    "id": "VG-00004",
+    "title": "Solid Brass Incense Burner",
+    "link": "https://veridiangrove.com/products/vg-00004",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00004.jpg",
+    "description": "Solid Brass Incense Burner from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 48.0,
+    "sku": "VG-00004",
+    "category": "Accessories",
+    "categories": [
+      "Accessories"
+    ],
+    "inventory_quantity": 30,
+    "inventory_level": 30,
+    "inventory_policy": 1,
     "availability": "in stock",
-    "category": "Starter Kits",
-    "brand": "The Terrarium Collective"
+    "limited_edition": false,
+    "limited_edition_label": ""
   },
   {
-    "id": "starter-kit-005",
-    "title": "Desktop Zen Garden Terrarium Kit",
-    "description": "A calming desk companion with soft moss textures and natural stone accents. Designed for mindful daily interaction.",
-    "price": 54.99,
-    "url": "https://terrariumcollective.com/products/desktop-zen-kit",
-    "image_url": "https://terrariumcollective.com/images/desktop-zen-kit.jpg",
-    "image_thumbnail_url": "https://terrariumcollective.com/images/desktop-zen-kit.jpg",
+    "id": "VG-00005",
+    "title": "Hand-Woven Wool Area Rug",
+    "link": "https://veridiangrove.com/products/vg-00005",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00005.jpg",
+    "description": "Hand-Woven Wool Area Rug from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 320.0,
+    "sku": "VG-00005",
+    "category": "Textiles",
+    "categories": [
+      "Textiles"
+    ],
+    "inventory_quantity": 5,
+    "inventory_level": 5,
+    "inventory_policy": 1,
     "availability": "in stock",
-    "category": "Starter Kits",
-    "brand": "The Terrarium Collective"
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00006",
+    "title": "Speckled Earthenware Bowl",
+    "link": "https://veridiangrove.com/products/vg-00006",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00006.jpg",
+    "description": "Speckled Earthenware Bowl from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 42.0,
+    "sku": "VG-00006",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 22,
+    "inventory_level": 22,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
+  },
+  {
+    "id": "VG-00007",
+    "title": "Hand-Blown Amber Glass Carafe",
+    "link": "https://veridiangrove.com/products/vg-00007",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00007.jpg",
+    "description": "Hand-Blown Amber Glass Carafe from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 75.0,
+    "sku": "VG-00007",
+    "category": "Glassware",
+    "categories": [
+      "Glassware"
+    ],
+    "inventory_quantity": 15,
+    "inventory_level": 15,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00008",
+    "title": "Organic Cotton Napkin Set",
+    "link": "https://veridiangrove.com/products/vg-00008",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00008.jpg",
+    "description": "Organic Cotton Napkin Set from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 38.0,
+    "sku": "VG-00008",
+    "category": "Textiles",
+    "categories": [
+      "Textiles"
+    ],
+    "inventory_quantity": 60,
+    "inventory_level": 60,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00009",
+    "title": "Terracotta Ridge Planter",
+    "link": "https://veridiangrove.com/products/vg-00009",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00009.jpg",
+    "description": "Terracotta Ridge Planter from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 55.0,
+    "sku": "VG-00009",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 18,
+    "inventory_level": 18,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
+  },
+  {
+    "id": "VG-00010",
+    "title": "Carrara Marble Coaster Set",
+    "link": "https://veridiangrove.com/products/vg-00010",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00010.jpg",
+    "description": "Carrara Marble Coaster Set from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 45.0,
+    "sku": "VG-00010",
+    "category": "Accessories",
+    "categories": [
+      "Accessories"
+    ],
+    "inventory_quantity": 25,
+    "inventory_level": 25,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00011",
+    "title": "Ribbed Clay Espresso Mug",
+    "link": "https://veridiangrove.com/products/vg-00011",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00011.jpg",
+    "description": "Ribbed Clay Espresso Mug from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 24.0,
+    "sku": "VG-00011",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 40,
+    "inventory_level": 40,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
+  },
+  {
+    "id": "VG-00012",
+    "title": "Embroidered Silk Accent Pillow",
+    "link": "https://veridiangrove.com/products/vg-00012",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00012.jpg",
+    "description": "Embroidered Silk Accent Pillow from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 88.0,
+    "sku": "VG-00012",
+    "category": "Textiles",
+    "categories": [
+      "Textiles"
+    ],
+    "inventory_quantity": 14,
+    "inventory_level": 14,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00013",
+    "title": "Smoked Glass Bud Vase",
+    "link": "https://veridiangrove.com/products/vg-00013",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00013.jpg",
+    "description": "Smoked Glass Bud Vase from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 32.0,
+    "sku": "VG-00013",
+    "category": "Glassware",
+    "categories": [
+      "Glassware"
+    ],
+    "inventory_quantity": 50,
+    "inventory_level": 50,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00014",
+    "title": "Glazed Porcelain Trinket Tray",
+    "link": "https://veridiangrove.com/products/vg-00014",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00014.jpg",
+    "description": "Glazed Porcelain Trinket Tray from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 28.0,
+    "sku": "VG-00014",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 35,
+    "inventory_level": 35,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
+  },
+  {
+    "id": "VG-00015",
+    "title": "Chunky Knit Alpaca Blanket",
+    "link": "https://veridiangrove.com/products/vg-00015",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00015.jpg",
+    "description": "Chunky Knit Alpaca Blanket from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 210.0,
+    "sku": "VG-00015",
+    "category": "Textiles",
+    "categories": [
+      "Textiles"
+    ],
+    "inventory_quantity": 7,
+    "inventory_level": 7,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00016",
+    "title": "Driftwood Pillar Candle Holder",
+    "link": "https://veridiangrove.com/products/vg-00016",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00016.jpg",
+    "description": "Driftwood Pillar Candle Holder from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 52.0,
+    "sku": "VG-00016",
+    "category": "Accessories",
+    "categories": [
+      "Accessories"
+    ],
+    "inventory_quantity": 10,
+    "inventory_level": 10,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00017",
+    "title": "Tasseled Jute Table Runner",
+    "link": "https://veridiangrove.com/products/vg-00017",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00017.jpg",
+    "description": "Tasseled Jute Table Runner from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 65.0,
+    "sku": "VG-00017",
+    "category": "Textiles",
+    "categories": [
+      "Textiles"
+    ],
+    "inventory_quantity": 20,
+    "inventory_level": 20,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00018",
+    "title": "Woven Seagrass Storage Basket",
+    "link": "https://veridiangrove.com/products/vg-00018",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00018.jpg",
+    "description": "Woven Seagrass Storage Basket from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 78.0,
+    "sku": "VG-00018",
+    "category": "Accessories",
+    "categories": [
+      "Accessories"
+    ],
+    "inventory_quantity": 12,
+    "inventory_level": 12,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00019",
+    "title": "Abstract Ceramic Wall Platter",
+    "link": "https://veridiangrove.com/products/vg-00019",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00019.jpg",
+    "description": "Abstract Ceramic Wall Platter from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 120.0,
+    "sku": "VG-00019",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 4,
+    "inventory_level": 4,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
+  },
+  {
+    "id": "VG-00020",
+    "title": "Minimalist Oak Serving Board",
+    "link": "https://veridiangrove.com/products/vg-00020",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00020.jpg",
+    "description": "Minimalist Oak Serving Board from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 95.0,
+    "sku": "VG-00020",
+    "category": "Accessories",
+    "categories": [
+      "Accessories"
+    ],
+    "inventory_quantity": 18,
+    "inventory_level": 18,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00021",
+    "title": "Solid Brass Incense Burner",
+    "link": "https://veridiangrove.com/products/vg-00021",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00021.jpg",
+    "description": "Solid Brass Incense Burner from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 307.68,
+    "sku": "VG-00021",
+    "category": "Glassware",
+    "categories": [
+      "Glassware"
+    ],
+    "inventory_quantity": 91,
+    "inventory_level": 91,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00022",
+    "title": "Hand-Woven Wool Area Rug",
+    "link": "https://veridiangrove.com/products/vg-00022",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00022.jpg",
+    "description": "Hand-Woven Wool Area Rug from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 315.65,
+    "sku": "VG-00022",
+    "category": "Glassware",
+    "categories": [
+      "Glassware"
+    ],
+    "inventory_quantity": 41,
+    "inventory_level": 41,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00023",
+    "title": "Solid Brass Incense Burner",
+    "link": "https://veridiangrove.com/products/vg-00023",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00023.jpg",
+    "description": "Solid Brass Incense Burner from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 182.3,
+    "sku": "VG-00023",
+    "category": "Accessories",
+    "categories": [
+      "Accessories"
+    ],
+    "inventory_quantity": 12,
+    "inventory_level": 12,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00024",
+    "title": "Glazed Porcelain Trinket Tray",
+    "link": "https://veridiangrove.com/products/vg-00024",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00024.jpg",
+    "description": "Glazed Porcelain Trinket Tray from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 53.93,
+    "sku": "VG-00024",
+    "category": "Glassware",
+    "categories": [
+      "Glassware"
+    ],
+    "inventory_quantity": 23,
+    "inventory_level": 23,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": false,
+    "limited_edition_label": ""
+  },
+  {
+    "id": "VG-00025",
+    "title": "Organic Cotton Napkin Set",
+    "link": "https://veridiangrove.com/products/vg-00025",
+    "image_link": "https://cdn.veridiangrove.com/assets/images/prod_00025.jpg",
+    "description": "Organic Cotton Napkin Set from Veridian Grove Interiors, curated for the Weekly Curated Drop.",
+    "price": 311.8,
+    "sku": "VG-00025",
+    "category": "Ceramics",
+    "categories": [
+      "Ceramics"
+    ],
+    "inventory_quantity": 12,
+    "inventory_level": 12,
+    "inventory_policy": 1,
+    "availability": "in stock",
+    "limited_edition": true,
+    "limited_edition_label": "Limited Edition"
   }
 ]
